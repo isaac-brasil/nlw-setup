@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Habits </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -35,11 +35,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](isaac-brasil.github.io/nlw-setup/)
+- [Acesse o projeto finalizado, online]([isaac-brasil.github.io/nlw-setup/](https://isaac-brasil.github.io/nlw-setup/))
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](isaac-brasil.github.io/nlw-setup/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]([isaac-brasil.github.io/nlw-setup/](https://isaac-brasil.github.io/nlw-setup/)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
