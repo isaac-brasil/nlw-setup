@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um app para ajudar a rastrear seus hábitos
 
-- [Visite o projeto online] (https://isaac-brasil.github.io/nlw-setup/)
+-[Visite_o_projeto_online] (https://isaac-brasil.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
