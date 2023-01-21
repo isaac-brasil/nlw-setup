@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<b><h1 align="center">  HABITS  </h1></b>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
