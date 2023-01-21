@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um agregador de links para usar como cartão de visitas online.
+O Habits é um organizador de tarefas do dia
 
 - [Acesse o projeto finalizado, online](https://isaac-brasil.github.io/nlw-setup/)
 
