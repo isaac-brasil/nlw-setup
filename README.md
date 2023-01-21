@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# nlw-setup
+Habit Tracker by NLW´s Rocketseat
+
+>>>>>>> 4375a6276f5403449d129aad11a9f3b227508e61
 <h1 align="center"> Habits </h1>
 
 <p align="center">
